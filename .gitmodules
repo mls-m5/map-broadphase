@@ -1,0 +1,6 @@
+[submodule "matgui"]
+	path = matgui
+	url = git@github.com:mls-m5/matgui.git
+[submodule "matmake"]
+	path = matmake
+	url = git@github.com:mls-m5/matmake.git
